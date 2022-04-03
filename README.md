@@ -1,0 +1,1 @@
+# scala-multi-module-example
